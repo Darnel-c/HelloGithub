@@ -6,3 +6,4 @@ also add a new line
 Creating a new branch is quick and simple.
 Debug line.
 Bug 101 has been solved.
+My new work
